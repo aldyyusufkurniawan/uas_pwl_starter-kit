@@ -111,9 +111,9 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
 ### 3. Dashboard Berdasarkan Role
 
 * **Dashboard Admin:**\
-    ![Admin Dashboard](screenshots/admin_dashboard.png)
+    ![Admin Dashboard](screenshots/dashboard_admin.png)
 * **Dashboard Editor:**\
-    ![Editor Dashboard](screenshots/editor_dashboard.png)
+    ![Editor Dashboard](screenshots/dashboard_editor.png)
 * **Dashboard Wartawan:**\
     ![Wartawan Dashboard](screenshots/dashboard_wartawan.png)
 * **Dashboard User (Umum):**\
