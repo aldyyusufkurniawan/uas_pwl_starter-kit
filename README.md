@@ -104,7 +104,7 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
     ![Forgot Password](screenshots/forgot_password.png)
 * **Email Verification:**\
     *(Jika diimplementasikan)*\
-    ![Email Verification](screenshots/email_verification.png)
+    ![Email Verification](screenshots/email_reset_password.png)
 * **Email Reset Password:**\
     *(Jika diimplementasikan)*\
     ![Email Reset Password](screenshots/email_reset_password.png)
