@@ -118,7 +118,7 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
     ![Wartawan Dashboard](screenshots/dashboard_wartawan.png)
 * **Dashboard User (Umum):**\
     *(Jika ada dashboard umum selain role spesifik, sesuaikan namanya jika bukan `user_dashboard.png`)*\
-    ![User Dashboard](screenshots/user_dashboard.png)
+    ![User Dashboard](screenshots/semua_berita.png)
 
 ### 4. Manajemen Pengguna
 
