@@ -105,9 +105,6 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
 * **Email Reset Password:**\
     *(Jika diimplementasikan)*\
     ![Email Reset Password](screenshots/email_reset_password.png)
-* **Login dengan Google (Fitur Optional):**\
-    *(Hanya jika diimplementasikan)*\
-    ![Login with Google](screenshots/login_with_google.png)
 * **Reset Password:**\
     ![Reset Password](screenshots/reset_password.png)
 
