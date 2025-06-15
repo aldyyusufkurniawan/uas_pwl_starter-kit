@@ -102,9 +102,6 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
     ![Register Page](screenshots/register_page.png)
 * **Halaman Lupa Password:**\
     ![Forgot Password](screenshots/forgot_password.png)
-* **Email Verification:**\
-    *(Jika diimplementasikan)*\
-    ![Email Verification](screenshots/email_reset_password.png)
 * **Email Reset Password:**\
     *(Jika diimplementasikan)*\
     ![Email Reset Password](screenshots/email_reset_password.png)
